@@ -2,6 +2,7 @@
 **/Library/
 **/Project Logs for CNC Controller/
 **/Project Outputs for CNC Controller/
+**/_Previews/
 *.htm
 *.Harness
 *.Annotation
