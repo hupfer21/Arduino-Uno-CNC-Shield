@@ -196,7 +196,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document11]
-DocumentPath=C:\altium_library\Connectors\Connectors.SchLib
+DocumentPath=..\..\..\..\..\..\altium_library\Connectors\Connectors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
