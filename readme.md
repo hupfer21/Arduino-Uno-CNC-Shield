@@ -5,8 +5,8 @@ This project is an open-source CNC controller shield PCB designed for **Arduino 
 ---
 
 <p align="center">
-  <img src="3D_top.png" width="300">
-  <img src="2D_top.png" width="300">
+  <img src="images/3D_top.png" width="300">
+  <img src="images/2D_top.png" width="300">
 </p>
 
 ## ✨ Specs
